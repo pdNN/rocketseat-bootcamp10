@@ -1,0 +1,16 @@
+{
+  "name": "Node_Challenge_1",
+  "version": "1.0.0",
+  "description": "Rocketseat's bootcamp",
+  "main": "index.js",
+  "repository": "https://github.com/pdNN/rocketseat-bootcamp10/",
+  "author": "pdNN",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
