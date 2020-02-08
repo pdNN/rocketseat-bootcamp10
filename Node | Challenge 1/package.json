@@ -7,6 +7,9 @@
   "author": "pdNN",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
   "devDependencies": {
     "nodemon": "^2.0.2"
   },
